@@ -17,7 +17,7 @@ export default function Home() {
     return (
         <>
             <Grid container direction="row" justifyContent="center">
-                <Grid item xs={3ç}></Grid>
+                <Grid item xs={3}></Grid>
                 <Grid item xs={6} sx={{ marginTop: '10px' }}><Quadro></Quadro></Grid>
                 <Grid item xs={3}></Grid>
                 <Grid item xs={10}>
